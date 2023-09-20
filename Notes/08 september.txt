@@ -1,0 +1,6 @@
+Semantic elements
+the tags which have some meanung
+
+SPECIAL CHARACTERS-the characters whiuch are not on our keyboard example-♥
+<p></p>
+meta data- Data about data is called meta data 

@@ -1,0 +1,1 @@
+Css property in <head> section of html document.To use internal Css , we use Class and id attributes.
